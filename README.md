@@ -11,4 +11,4 @@ Bubble Game is a fun and interactive web-based number-clicking game built using 
 -
  ## 🔗 Live Demo
 /
-👉 [Click here to play the game](https://vercel.com/govinda-vks-projects/bubble-game)  
+👉 [Click here to play the game](https://bubble-game-inky-eight.vercel.app/)  
