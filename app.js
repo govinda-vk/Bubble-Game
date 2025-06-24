@@ -5,7 +5,7 @@ let hitnum=0;
 
 function makebubbel(){
     let clutter="";
-for(let i=1 ;i<=141; i++){
+for(let i=1 ;i<=140; i++){
 
     var rn=Math.floor(Math.random()*10);
 
